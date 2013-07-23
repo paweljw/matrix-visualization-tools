@@ -21,6 +21,7 @@ Where:
 3. *[x]* and *[y]* are the position in the matrix (zero-indexed),
 4. *[value]* is the new value to be assigned to that field.
 
+
 Depending on how your software operates on matrices, the file can only be used to record changing values, as such keeping it's size to a minimum. While operating on a matrix of 121x121 elements and recording >1500 frames, I've been consistently seeing files under a megabyte large.
 
 What does it show
