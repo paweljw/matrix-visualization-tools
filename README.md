@@ -24,6 +24,6 @@ What does it show
 MVT was created as an internal tool for my bachelor thesis. I needed to visualize how a matrix changes while operated on by a numerical solver, so my version only colors the nonzero fields while painting the zeroed ones black. I believe it could be easily changed to show other points of interest.
 
 Forking and modification
-------------------------
+------------------------ 
 
 The software is free as in both beer and speech and you are free to do with it as you please.
